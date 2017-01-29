@@ -6,3 +6,8 @@ view.hl.shake() // shake
 view.hl.jump() // jump
 ```
 
+cocoapods
+
+```
+pod 'Halogens'
+```
